@@ -1,0 +1,672 @@
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+
+                                                                      
+  [ErrorException]                                                    
+  socket_bind(): unable to bind address [98]: Address already in use  
+                                                                      
+
+array(2) {
+  [0]=>
+  resource(312) of type (Socket)
+  ["q2"]=>
+  resource(313) of type (Socket)
+}
+array(3) {
+  [0]=>
+  resource(312) of type (Socket)
+  ["q2"]=>
+  resource(313) of type (Socket)
+  ["q1"]=>
+  resource(314) of type (Socket)
+}
+
+                     
+  [ErrorException]   
+  Undefined index:   
+                     
+
+array(2) {
+  [0]=>
+  resource(312) of type (Socket)
+  ["q2"]=>
+  resource(313) of type (Socket)
+}
+array(3) {
+  [0]=>
+  resource(312) of type (Socket)
+  ["q2"]=>
+  resource(313) of type (Socket)
+  ["q1"]=>
+  resource(314) of type (Socket)
+}
+array(2) {
+  [0]=>
+  resource(312) of type (Socket)
+  ["q2"]=>
+  resource(313) of type (Socket)
+}
+array(3) {
+  [0]=>
+  resource(312) of type (Socket)
+  ["q2"]=>
+  resource(313) of type (Socket)
+  ["q1"]=>
+  resource(314) of type (Socket)
+}
+array(3) {
+  [0]=>
+  resource(312) of type (Socket)
+  ["q1"]=>
+  resource(314) of type (Socket)
+  ["q2"]=>
+  resource(333) of type (Socket)
+}
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+array(2) {
+  [0]=>
+  resource(312) of type (Socket)
+  ["q2"]=>
+  resource(313) of type (Socket)
+}
+array(3) {
+  [0]=>
+  resource(312) of type (Socket)
+  ["q2"]=>
+  resource(313) of type (Socket)
+  ["q1"]=>
+  resource(332) of type (Socket)
+}
+array(3) {
+  [0]=>
+  resource(312) of type (Socket)
+  ["q1"]=>
+  resource(332) of type (Socket)
+  ["q2"]=>
+  resource(333) of type (Socket)
+}
+array(3) {
+  [0]=>
+  resource(312) of type (Socket)
+  ["q1"]=>
+  resource(332) of type (Socket)
+  ["q2"]=>
+  resource(334) of type (Socket)
+}
+array(3) {
+  [0]=>
+  resource(312) of type (Socket)
+  ["q1"]=>
+  resource(332) of type (Socket)
+  ["q2"]=>
+  resource(335) of type (Socket)
+}
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+array(2) {
+  [0]=>
+  resource(312) of type (Socket)
+  ["q1"]=>
+  resource(313) of type (Socket)
+}
+array(3) {
+  [0]=>
+  resource(312) of type (Socket)
+  ["q1"]=>
+  resource(313) of type (Socket)
+  ["q2"]=>
+  resource(332) of type (Socket)
+}
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+
+
+                                      
+  [ErrorException]                    
+  Undefined index: Sec-WebSocket-Key  
+                                      
+

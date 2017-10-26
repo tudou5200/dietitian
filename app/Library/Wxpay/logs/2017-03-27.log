@@ -1,0 +1,2 @@
+[2017-03-27 13:09:06][debug] begin notify
+[2017-03-27 13:09:08][debug] query:{"appid":"wxd46e99b7f83183e1","mch_id":"1383580102","nonce_str":"JaxKPVGQoiRw9NmC","out_trade_no":"201703271309042854","result_code":"SUCCESS","return_code":"SUCCESS","return_msg":"OK","sign":"A5CB36AEFCAA656CD445897187A12EEB","trade_state":"NOTPAY","trade_state_desc":"\u8ba2\u5355\u672a\u652f\u4ed8"}

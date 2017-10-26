@@ -1,0 +1,6 @@
+[2017-03-17 17:59:18][debug] begin notify
+[2017-03-17 17:59:20][debug] query:{"appid":"wxd46e99b7f83183e1","err_code":"ORDERNOTEXIST","err_code_des":"order not exist","mch_id":"1383580102","nonce_str":"VzqWDWAT79q5CHOS","result_code":"FAIL","return_code":"SUCCESS","return_msg":"OK","sign":"A26CD4A9CAB6924CE1C775181B272DC0"}
+[2017-03-17 18:03:32][debug] begin notify
+[2017-03-17 18:03:38][debug] query:{"appid":"wxd46e99b7f83183e1","err_code":"ORDERNOTEXIST","err_code_des":"order not exist","mch_id":"1383580102","nonce_str":"xK2T1nh5GXWnXbQr","result_code":"FAIL","return_code":"SUCCESS","return_msg":"OK","sign":"8ADF8A579B43EBCFA4E058F0035B30C4"}
+[2017-03-17 18:04:01][debug] begin notify
+[2017-03-17 18:29:28][debug] begin notify
