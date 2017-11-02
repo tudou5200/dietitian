@@ -3,7 +3,7 @@
                     <playTimes>1</playTimes>
                     <to>18345135329</to>
                     <respUrl>http://api.shoumeikeji.cn/front/personal/apply</respUrl>
-                    <displayNum>18845634070</displayNum>
+                    <displayNum>18845634070</disssplayNum>
                     <lang>zh</lang>
                     <userData>1</userData>
                   </VoiceVerify>
