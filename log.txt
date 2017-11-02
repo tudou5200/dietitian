@@ -487,5 +487,5 @@ request body = <VoiceVerify>
                     <lang></lang>
                     <userData></userData>
                   </VoiceVerify>
-request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8aaf07085b3bb22e015b3c13c99e0112/Calls/VoiceVerify?sig=A748D7BF38F8BC1CD1AFBD4AEA286CDD
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8aaf07085b3bb33322e015b3c13c99e0112/Calls/VoiceVerify?sig=A748D7BF38F8BC1CD1AFBD4AEA286CDD
 response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>111004</statusCode><statusMsg>内部错误</statusMsg></Response>
