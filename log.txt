@@ -7,7 +7,7 @@
                     <lang>zh</lang>
                     <userData>1</userData>
                   </VoiceVerify>
-request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8aaf07085b3bb22e015b3c13c99e0112/Calls/VoiceVerify?sig=FA7C600CC7E6F7BA36D2FFCD80C28FD7
+request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8aaf07085b3bb22e015b3c13c99e0112/Calls/VoiceVerify?sig=FA7C600CC7E6F7BA336D2FFCD80C28FD7
 response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>111004</statusCode><statusMsg>内部错误</statusMsg></Response>
 request body = <VoiceVerify>
                     <appId>8aaf07085b3bb22e015b3c13ca160116</appId>
