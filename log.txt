@@ -18,7 +18,7 @@ request body = <VoiceVerify>
                     <displayNum>18845634070</displayNum>
                     <lang>zh</lang>
                     <userData>1</userData>
-                  </VoiceVerify>
+                  </VoiceVfy>
 request url = https://sandboxapp.cloopen.com:8883/2013-12-26/Accounts/8aaf07085b3bb22e015b3c13c99e0112/Calls/VoiceVerify?sig=803932FF3722D2B44BD712D3B79E399E
 response body = <?xml version="1.0" encoding="UTF-8" standalone="yes"?><Response><statusCode>111004</statusCode><statusMsg>内部错误</statusMsg></Response>
 request body = <VoiceVerify>
